@@ -80,7 +80,7 @@ public class Graph {
             YValue = 1000 - YValue;
             SVGout.write(" " + XValue + " " + YValue + ",\n");
         }
-        SVGout.write("\"style=\"stroke:" + color + "; stroke-width:3; stroke-linecap:round; stroke-dasharray:1,1;fill:none;\"/>");
+        SVGout.write("\"\nstyle=\"stroke:" + color + "; stroke-width:3; stroke-linecap:round; stroke-dasharray:1,1;fill:none;\"/>");
     }
 
     private void closeGraphSVGFile() throws IOException {
