@@ -16,5 +16,5 @@ Kod produkcyjny pokryty testami w JUnit.
 "-yMax", " 20"
 
 <p align="center">
-  <img src="https://github.com/Mark0tny/Graph/exampleGraph.svg">
+  <img src="https://github.com/Mark0tny/Graph-Application/blob/main/exampleGraph.svg">
 </p>
