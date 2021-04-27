@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<svg width="1300" height="1100">
+<g transform="translate(100,100) scale(0.8)">
+<g style="stroke-width:5; stroke:black">
+<path d="M 0 1000 L 1050 1000 Z"></path>
+<path d="M 0 -50 L 0 1000 Z"></path>
+</g>
+ <text style="fill:black; stroke:none" x="-40" y="1005.0" >0.0</text> <line x1="-10" y1="0.0" x2="10" y2="0.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="905.0" >2.2</text> <line x1="-10" y1="100.0" x2="10" y2="100.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="805.0" >4.4</text> <line x1="-10" y1="200.0" x2="10" y2="200.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="705.0" >6.6</text> <line x1="-10" y1="300.0" x2="10" y2="300.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="605.0" >8.8</text> <line x1="-10" y1="400.0" x2="10" y2="400.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="505.0" >11.0</text> <line x1="-10" y1="500.0" x2="10" y2="500.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="405.0" >13.2</text> <line x1="-10" y1="600.0" x2="10" y2="600.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="305.0" >15.4</text> <line x1="-10" y1="700.0" x2="10" y2="700.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="205.0" >17.6</text> <line x1="-10" y1="800.0" x2="10" y2="800.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="105.0" >19.8</text> <line x1="-10" y1="900.0" x2="10" y2="900.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="-40" y="5.0" >22.0</text> <line x1="-10" y1="1000.0" x2="10" y2="1000.0" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="990.0" y="1030" >10.0</text> <line x1="1000.0" y1="990" x2="1000.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="890.0" y="1030" >9.0</text> <line x1="900.0" y1="990" x2="900.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="790.0" y="1030" >8.0</text> <line x1="800.0" y1="990" x2="800.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="690.0" y="1030" >7.0</text> <line x1="700.0" y1="990" x2="700.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="590.0" y="1030" >6.0</text> <line x1="600.0" y1="990" x2="600.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="490.0" y="1030" >5.0</text> <line x1="500.0" y1="990" x2="500.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="390.0" y="1030" >4.0</text> <line x1="400.0" y1="990" x2="400.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="290.0" y="1030" >3.0</text> <line x1="300.0" y1="990" x2="300.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="190.0" y="1030" >2.0</text> <line x1="200.0" y1="990" x2="200.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+ <text style="fill:black; stroke:none" x="90.0" y="1030" >1.0</text> <line x1="100.0" y1="990" x2="100.0" y2="1010" style="stroke:black;stroke-width:3;fill:black"></line>
+<text x="500" y="1110" font-size="25">osX</text>"
+<g transform="translate(-560, 500) scale(1, 1) rotate(-90)">
+<text x="-60" y="500" font-size="25">osY</text>"
+</g>
+<text x="500" y="-60" font-size="40">tytul</text>
+<g>
+<circle cx="750.0" cy="431.81818181818187" r="8" stroke="#1E3CAB" stroke-width="1" fill="#1E3CAB"></circle>
+<circle cx="850.0" cy="431.81818181818187" r="8" stroke="#1E3CAB" stroke-width="1" fill="#1E3CAB"></circle>
+<circle cx="950.0" cy="431.81818181818187" r="8" stroke="#1E3CAB" stroke-width="1" fill="#1E3CAB"></circle>
+</g>
+<polyline points=" 750.0 431.81818181818187,
+ 850.0 431.81818181818187,
+ 950.0 431.81818181818187,
+"style="stroke:#1E3CAB; stroke-width:3; stroke-linecap:round; stroke-dasharray:1,1;fill:none;"/>
+<g>
+<circle cx="400.0" cy="818.1818181818182" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+<circle cx="500.0" cy="772.7272727272727" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+<circle cx="600.0" cy="727.2727272727273" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+<circle cx="700.0" cy="681.8181818181818" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+<circle cx="800.0" cy="636.3636363636364" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+<circle cx="900.0" cy="590.909090909091" r="8" stroke="#D8C54E" stroke-width="1" fill="#D8C54E"></circle>
+</g>
+<polyline points=" 400.0 818.1818181818182,
+ 500.0 772.7272727272727,
+ 600.0 727.2727272727273,
+ 700.0 681.8181818181818,
+ 800.0 636.3636363636364,
+ 900.0 590.909090909091,
+"style="stroke:#D8C54E; stroke-width:3; stroke-linecap:round; stroke-dasharray:1,1;fill:none;"/>
+<g>
+<circle cx="225.0" cy="840.9090909090909" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="350.0" cy="750.0" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="450.0" cy="840.9090909090909" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="550.0" cy="750.0" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="650.0" cy="840.9090909090909" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="750.0" cy="750.0" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="850.0" cy="840.9090909090909" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+<circle cx="950.0" cy="750.0" r="8" stroke="#A3C5D2" stroke-width="1" fill="#A3C5D2"></circle>
+</g>
+<polyline points=" 225.0 840.9090909090909,
+ 350.0 750.0,
+ 450.0 840.9090909090909,
+ 550.0 750.0,
+ 650.0 840.9090909090909,
+ 750.0 750.0,
+ 850.0 840.9090909090909,
+ 950.0 750.0,
+"style="stroke:#A3C5D2; stroke-width:3; stroke-linecap:round; stroke-dasharray:1,1;fill:none;"/>
+<g>
+<text x="1150.0" y="460" font-size="40">Legend</text>"
+<text x="1200.0" y="505" font-size="25">d</text>"
+<circle cx="1180.0" cy="500" r="8" stroke="#1E3CAB" stroke-width="3" fill="#1E3CAB"></circle>
+<text x="1200.0" y="545" font-size="25">x</text>"
+<circle cx="1180.0" cy="540" r="8" stroke="#D8C54E" stroke-width="3" fill="#D8C54E"></circle>
+<text x="1200.0" y="585" font-size="25">y</text>"
+<circle cx="1180.0" cy="580" r="8" stroke="#A3C5D2" stroke-width="3" fill="#A3C5D2"></circle>
+</g>
+</g>
+</svg>
